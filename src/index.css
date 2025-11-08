@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+.active{
+
+  background-color: #3B82F6;
+  color: white;
+  border-radius: 5px;
+
+  transition: all;
+  transition-duration: 400ms;
+}
