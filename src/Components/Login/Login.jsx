@@ -141,7 +141,7 @@ export default function Login() {
   )}
 
     </button>
-<p className='text-center text-white mt-5 '>Don't have an account? <Link to="/register" className='text-blue-400 underline underline-offset-4  hover:text-blue-600'>Login</Link></p>
+<p className='text-center text-white mt-5 '>Don't have an account? <Link to="/register" className='text-blue-400 underline underline-offset-4  hover:text-blue-600'>Register</Link></p>
     
       </form>
 
